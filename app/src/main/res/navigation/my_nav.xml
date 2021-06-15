@@ -6,6 +6,13 @@
     app:startDestination="@id/recipesFragment">
 
     <fragment
+        android:id="@+id/cameraFragment"
+        android:name="com.example.foody.ui.fragments.camera.CameraFragment"
+        android:label="Camera"
+        tools:layout="@layout/fragment_camera" >
+    </fragment>
+
+    <fragment
         android:id="@+id/recipesFragment"
         android:name="com.example.foody.ui.fragments.recipes.RecipesFragment"
         android:label="Recipes"
