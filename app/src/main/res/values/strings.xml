@@ -46,4 +46,8 @@
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </string>
     <string name="share">Share</string>
     <string name="camera">Camera</string>
+    <string name="facebook_app_id">480815433171274</string>
+    <string name="fb_login_protocol_scheme">fb480815433171274</string>
+    <string name="login">Login</string>
+
 </resources>
